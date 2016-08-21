@@ -15,7 +15,7 @@ The concepts learnt are -
   8. Accesing iOS documentation.
   9. Optionals (?, implicit unwrapping by declaring with !,explicit unwrapping with ! and if let).
   10. The Concept of MVC(Model, View, Controller) - The OO Design Pattern.
-  11. [Array]()
+  11. Array
   12. Switch
   13. Functions
   14. Closure Syntax
